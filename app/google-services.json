@@ -1,26 +1,44 @@
 {
   "project_info": {
-    "project_number": "923572629789",
-    "project_id": "dice-roller-97246",
-    "storage_bucket": "dice-roller-97246.appspot.com"
+    "project_number": "377777612940",
+    "project_id": "diceroller-d854f",
+    "storage_bucket": "diceroller-d854f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:923572629789:android:ae868bcfbb3d43e53fb1f4",
+        "mobilesdk_app_id": "1:377777612940:android:2c74192f8f5cb23ec333a9",
         "android_client_info": {
           "package_name": "com.jose.diceroller"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "377777612940-83q0mijkv0vtvn26tq3cl4g0474solrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jose.diceroller",
+            "certificate_hash": "fb764a9b5ca3feceacdd11217c1988d967773b20"
+          }
+        },
+        {
+          "client_id": "377777612940-o0q86p70b1mvhpjsun9dg9mfcce69sfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyDFE-Bh14ZmIPQGiQ5f4Q24j18LsPGoVHc"
+          "current_key": "AIzaSyCY0poksioWYfUqpTSW4TWCHFTMH5LZxHs"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377777612940-o0q86p70b1mvhpjsun9dg9mfcce69sfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
